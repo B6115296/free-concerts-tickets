@@ -64,7 +64,7 @@ The easiest way to run the entire system is using Docker Compose.
 ### 1. Clone the repository
 ```bash
 git clone <repository-url>
-cd Test DataWow
+cd free-concerts-tickets
 ```
 
 ### 2. Run all services
